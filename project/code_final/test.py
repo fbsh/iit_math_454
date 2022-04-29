@@ -72,5 +72,5 @@ def test_spilling():
 
 
 if __name__ == "__main__":
-    test_no_spilling()
-    # test_spilling()
+    # test_no_spilling()
+    test_spilling()
